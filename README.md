@@ -3,6 +3,7 @@ My name is Mattia Gasparotto, I live in Italy (yes, I love pizza and pasta) in V
 I am currently studying automation at ITT Giacomo Chilesotti
 
 - 🔭 I’m currently working on:
+  - Studing eletronic
   - Managing my linux systems
   - Coding in Python
 - 🌱 I’m currently learning:
