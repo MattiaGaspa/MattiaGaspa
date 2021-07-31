@@ -4,9 +4,11 @@ I am currently studying automation at ITT Giacomo Chilesotti
 
 - 🔭 I’m currently working on:
   - Studing eletronic
+  - Updating italian translations in the Gentoo Wiki
   - Managing my linux systems
   - Coding in Python
 - 🌱 I’m currently learning:
+  - Gentoo ebuild
   - PERL
   - Ruby
   - Go
