@@ -6,12 +6,10 @@ I am currently studying automation at ITT Giacomo Chilesotti
   - Studing eletronic
   - Updating italian translations in the Gentoo Wiki
   - Managing my linux systems
+  - Creating ebuild in GURU gentoo repository
   - Coding in Python
-- 🌱 I’m currently learning:
-  - Gentoo ebuild
-  - PERL
-  - Ruby
-  - Go
+- 🌱 I’m currently studying:
+  - topics for RHCSA certification
 - 📫 How to reach me:
   - Email: gasmat04@gmail.com
 - ⚡ Fun fact:
