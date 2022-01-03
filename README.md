@@ -13,7 +13,12 @@ I am currently studying automation at ITT Giacomo Chilesotti
   - Creating ebuild in GURU gentoo repository
   - Coding in Python
 - 🌱 I’m currently studying:
-  - topics for RHCSA certification
+  - Linux: on book:
+    - Linux Bible by Christoper Negus
+    - Linux Kernel Development by Robert Love
+  - Rust programming: on book:
+    - Programming Rust by O'Reilly press
+    - [Rust official book](https://doc.rust-lang.org/book/)
 - 📫 How to reach me:
   - Email: gasmat04@gmail.com
 - ⚡ Fun fact:
