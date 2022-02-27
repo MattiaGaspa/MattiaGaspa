@@ -22,9 +22,8 @@ I am currently studying automation at ITT Giacomo Chilesotti
   - Coding in Python
 - 🌱 I’m currently studying:
   - Linux: on book:
-    - Linux Bible by Christoper Negus
     - Linux Kernel Development by Robert Love
-  - Rust programming: on book:
+  - Rust programming: on books:
     - Programming Rust by O'Reilly press
     - [Rust official book](https://doc.rust-lang.org/book/)
 - 📫 How to reach me:
