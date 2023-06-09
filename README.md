@@ -15,11 +15,7 @@ I am currently studying automation at ITT Giacomo Chilesotti
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MattiaGaspa&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/MattiaGaspa/github-readme-stats)
 
 - 🔭 I’m currently working on:
-  - Studing eletronic
-  - Updating italian translations in the Gentoo Wiki
   - Managing my linux systems
-  - Creating ebuild in GURU gentoo repository
-  - Coding in Python
 - 🌱 I’m currently studying:
   - Linux: on book:
     - Linux Kernel Development by Robert Love
@@ -31,4 +27,4 @@ I am currently studying automation at ITT Giacomo Chilesotti
 - ⚡ Fun fact:
   - I have my birthday on November 16th
   - The first operating system I learned to use when I was little was Debian
-  - I am currently using Gentoo as main OS
+  - I am currently using NixOS as main OS
