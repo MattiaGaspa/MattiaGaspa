@@ -19,11 +19,10 @@ I studied automation at ITT "Giacomo Chilesotti" in Thiene before switching to t
 - 🌱 I'm an enthusiast of:
   - Linux: not arch btw
   - Rust: because in Rust we trust
-  - Music: trumpet superior
-  - Reviving old pc
+  - Music: trumpet
 - 📫 How to reach me:
   - Email: gasmat04@gmail.com
 - ⚡ Fun fact:
   - Birthday on November 16th (don't forget)
   - Debian was my first OS that I used when young (about 10 yeras old)
-  - I am currently using Fedora because potato pc can't afford to run Gentoo :-(
+  - I am currently using Fedora because I'm too lazy to install Gnetoo
